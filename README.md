@@ -2,7 +2,7 @@
 
 Description. 
 The package package_name is used to:
-	- 
+	- Only a test to build a Python package
 	-
 
 ## Installation
@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Luciano Jesus da Silva
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
